@@ -100,7 +100,9 @@ export default class Principal extends Component {
                 marginLeft:15,
                 fontSize: 15
               }}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus vestibulum orci a maximus. Cras iaculis leo sit amet dui hendrerit, et dapibus ex dictum.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Donec maximus vestibulum orci a maximus. Cras iaculis
+                leo sit amet dui hendrerit, et dapibus ex dictum.
               </Text>
 
             </View>
